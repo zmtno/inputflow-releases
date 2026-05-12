@@ -7,8 +7,6 @@
         <link>https://updates.inputflow.app/appcast.xml</link>
         <description>Auto-update feed for Input Flow.</description>
         <language>en</language>
-    </channel>
-</rss>
         <item>
             <title>Version 0.1.1</title>
             <pubDate>Tue, 12 May 2026 08:15:40 +0000</pubDate>
@@ -20,3 +18,5 @@
                        length="10638509"
                        type="application/octet-stream"/>
         </item>
+    </channel>
+</rss>
