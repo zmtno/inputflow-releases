@@ -9,3 +9,14 @@
         <language>en</language>
     </channel>
 </rss>
+        <item>
+            <title>Version 0.1.1</title>
+            <pubDate>Tue, 12 May 2026 08:15:40 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zmtno/inputflow-releases/releases/download/v0.1.1/Input-Flow-0.1.1.dmg"
+                       sparkle:edSignature="kpwoGgSyf4p0lmvSi8mcxjZ0iT8MqIKv6nIBgvmRLRaWGWxXe00pyCib4nL2V522hqMgcSw2r+P0IqWCkIBzAw=="
+                       length="10638509"
+                       type="application/octet-stream"/>
+        </item>
