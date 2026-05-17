@@ -84,5 +84,16 @@
                        length="11552506"
                        type="application/octet-stream"/>
         </item>
+            <item>
+            <title>Version 0.2.1</title>
+            <pubDate>Sun, 17 May 2026 14:05:37 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zmtno/inputflow-releases/releases/download/v0.2.1/Input-Flow-0.2.1.dmg"
+                       sparkle:edSignature="rHjpGhK0X0E5WWeeC3CfP8oBvaEv0lzuBpmygUDzJIff2BYnD2SXpD01f/Ip9vhFIgbVOe1W0CRB1tj8TM+NBA=="
+                       length="12241774"
+                       type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
