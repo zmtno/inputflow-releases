@@ -8,6 +8,17 @@
         <description>Auto-update feed for Input Flow.</description>
         <language>en</language>
         <item>
+            <title>Version 0.4.0</title>
+            <pubDate>Thu, 24 Sep 2026 00:13:25 +0000</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zmtno/inputflow-releases/releases/download/v0.4.0/Input-Flow-0.4.0.dmg"
+                       sparkle:edSignature="pAN38Br/wyRaF2tBvkz4WVlDt8EdW9Dz2/28Hrhdpl9j1Cnx6Pooznv7gY7XjtZyOlXFV1NVYmFSON2GQvVEDQ=="
+                       length="62112580"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.1.1</title>
             <pubDate>Tue, 12 May 2026 08:15:40 +0000</pubDate>
             <sparkle:version>9</sparkle:version>
